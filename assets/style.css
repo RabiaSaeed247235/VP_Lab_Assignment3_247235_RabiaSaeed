@@ -1,0 +1,10 @@
+:root {
+    --certo-blue: #02033b; 
+    --certo-yellow: #ffc107;
+    --text-gray: #707070;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--certo-blue);
+}
